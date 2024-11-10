@@ -8,7 +8,6 @@ I am an aspiring Data Analyst/Data Scientist passionate about turning data into 
 - 🔭 I’m currently working on improving my skills in machine learning and deep learning.
 - 💬 Ask me about data analysis, visualization, and machine learning.
 - 📫 How to reach me: [sabyasachibanerjee.ss@gmail.com](mailto:sabyasachibanerjee.ss@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ss-banerjee/)
-- 😄 Pronouns: He/Him
 
 ## 💻 Skills
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
